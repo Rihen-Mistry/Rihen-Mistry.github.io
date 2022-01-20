@@ -27,30 +27,31 @@ He has experience in :
 - Led a team of 5 as part of a Cross Functional Team of Operation Excellence - TAT(Turn around time) optimization. Identified bottlenecks by process mapping and reduced TAT by 18%
 - Managed 28 employees as a part of employee engagement CFT. Interacted with employees to set SMART goals. Increased employee engagement by 23%
 
-### Internships 
-  ### Swelore Engineering Pvt. Ltd (Jan'18 - May'18)
+### Internships :
+
+### Swelore Engineering Pvt. Ltd (Jan'18 - May'18)
 - Applied concepts of "Toyota Production System" to eliminate deviations - "Muda, Mura and Muri"
 - Implemented "Lean Manufacturing" model and reduced total inventory cost by 9.64%
-  ### Ice Make refrigeration Ltd (May'17 - Jun'17)
+### Ice Make refrigeration Ltd (May'17 - Jun'17)
 - Understood various design, procurement & manufacturing processes and submitted a project on design of "Expansion Valves"
 
-### Positions of Responsibilities 
+### Positions of Responsibilities :
 
-  ### HRidhaan : The HR Club of IIM Raipur (Sep'21 - Present)
+### HRidhaan : The HR Club of IIM Raipur (Sep'21 - Present)
 - Responsible for conceptualizing, planning and scheduling activities for intra and inter college events
 - Share industry insights & current trends in HR industry to students by monthly newsletters
 - To act as a bridge between industry and institute to introduce new HR practices for students
 
-  ### Emergency Response Team member - Jhagadia GIDC (Aug'20 - Jun'21)
+### Emergency Response Team member - Jhagadia GIDC (Aug'20 - Jun'21)
 - Conducted various safety trainings, planned mock drills & acted as a first responder in case of any emergency
 - Led a team of 3 safety stewards & promoted safe work culture within employees
 
-### CERTIFICATIONS
+### CERTIFICATIONS :
 - Completed a course from Corporate Finance Institute on accounting fundamentals & learned financial accounting
 - Completed program on "Computational Fluid Dynamics" from IIT Madras to understand fluid motion and heat transfer
 - Completed a special course on "Energy Resources" to understand conventional & non conventional energy resources
 
-### AWARDS & ACHIEVEMENTS
+### AWARDS & ACHIEVEMENTS :
 - Secured 99.91 percentile in 10th standard & became top 0.09% of the 2012 boards exam conducted in Gujarat
 - Secured 99.65 percentile in 12th standard & became top 0.35% of the 2014 boards exam conducted in Gujarat
 - Received performance scholarship from Nirma University in merit based category for being in top 3% out of 946 students
@@ -58,5 +59,5 @@ He has experience in :
 - Published a research paper on Parametric Study On Heat Pipe & Performance Optimization at International Journal of Science and Research
 
 
-Apart from this, Rihen is a cooking enthusiast - Recent lockdowns gave him the opportuinities to explore & cook many cuisines. He likes to spend the free time in exploring nearbuy areas, listening to rock music etc. To know more, you can connect him via given mail ID in the description.]
+Apart from this, Rihen is a cooking enthusiast - Recent lockdowns gave him the opportuinities to explore & cook many cuisines. He likes to spend the free time in exploring nearbuy areas, listening to rock music etc. To know more, you can connect him via given mail ID in the description.
 
