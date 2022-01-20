@@ -35,12 +35,12 @@ He has experience in :
 - Understood various design, procurement & manufacturing processes and submitted a project on design of "Expansion Valves"
 
 ### Positions of Responsibilities 
-  ### HRidhaan - The HR Club of IIM Raipur (Sep'21 - Present)
+  ### HRidhaan : The HR Club of IIM Raipur (Sep'21 - Present)
 - Responsible for conceptualizing, planning and scheduling activities for intra and inter college events
 - Share industry insights & current trends in HR industry to students by monthly newsletters
 - To act as a bridge between industry and institute to introduce new HR practices for students
 
-  ### Emergenct Response Team member - Jhagadia GIDC (Aug'20 - Jun'21)
+  ### Emergency Response Team member - Jhagadia GIDC (Aug'20 - Jun'21)
 - Conducted various safety trainings, planned mock drills & acted as a first responder in case of any emergency
 - Led a team of 3 safety stewards & promoted safe work culture within employees
 
@@ -56,7 +56,6 @@ He has experience in :
 - Received "Pat on the back" award & by President of DCM Shriram Ltd for in-depth monitoring & seamless coordination of the project
 - Published a research paper on Parametric Study On Heat Pipe & Performance Optimization at International Journal of Science and Research
 
-```markdown
+### 
 Apart from this, Rihen is a cooking enthusiast - Recent lockdowns gave him the opportuinities to explore & cook many cuisines. He likes to spend the free time in exploring nearbuy areas, listening to rock music etc. To know more, you can connect him via given mail ID in the description.   
 
-```
