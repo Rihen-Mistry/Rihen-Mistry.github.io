@@ -11,7 +11,7 @@ He has experience in :
 - Dashboards & MIS
 
 ### Work Experience 
-### DCM Shriram Ltd ( Jun'18 - Jun'21)
+### DCM Shriram Ltd (Jun'18 - Jun'21)
 
 - Managed end to end project life cycle of 5 different greenfield/brownfield projects. Maintained scope of the projects, Identified changes and analyzed impact on timelines and budget
 - Improved visibility and transparency among 48 stakeholders by developing project charters and RACI matrix
@@ -27,30 +27,36 @@ He has experience in :
 - Led a team of 5 as part of a Cross Functional Team of Operation Excellence - TAT(Turn around time) optimization. Identified bottlenecks by process mapping and reduced TAT by 18%
 - Managed 28 employees as a part of employee engagement CFT. Interacted with employees to set SMART goals. Increased employee engagement by 23%
 
+### Internships 
+  ### Swelore Engineering Pvt. Ltd (Jan'18 - May'18)
+- Applied concepts of "Toyota Production System" to eliminate deviations - "Muda, Mura and Muri"
+- Implemented "Lean Manufacturing" model and reduced total inventory cost by 9.64%
+  ### Swelore Engineering Pvt. Ltd (Jan'18 - May'18)
+- Understood various design, procurement & manufacturing processes and submitted a project on design of "Expansion Valves"
+
+### Positions of Responsibilities 
+  ### HRidhaan - The HR Club of IIM Raipur (Sep'21 - Present)
+- Responsible for conceptualizing, planning and scheduling activities for intra and inter college events
+- Share industry insights & current trends in HR industry to students by monthly newsletters
+- To act as a bridge between industry and institute to introduce new HR practices for students
+
+  ### Emergenct Response Team member - Jhagadia GIDC (Aug'20 - Jun'21)
+- Conducted various safety trainings, planned mock drills & acted as a first responder in case of any emergency
+- Led a team of 3 safety stewards & promoted safe work culture within employees
+
+### CERTIFICATIONS
+- Completed a course from Corporate Finance Institute on accounting fundamentals & learned financial accounting
+- Completed program on "Computational Fluid Dynamics" from IIT Madras to understand fluid motion and heat transfer
+- Completed a special course on "Energy Resources" to understand conventional & non conventional energy resources
+
+### AWARDS & ACHIEVEMENTS
+- Secured 99.91 percentile in 10th standard & became top 0.09% of the 2012 boards exam conducted in Gujarat
+- Secured 99.65 percentile in 12th standard & became top 0.35% of the 2014 boards exam conducted in Gujarat
+- Received performance scholarship from Nirma University in merit based category for being in top 3% out of 946 students
+- Received "Pat on the back" award & by President of DCM Shriram Ltd for in-depth monitoring & seamless coordination of the project
+- Published a research paper on Parametric Study On Heat Pipe & Performance Optimization at International Journal of Science and Research
+
 ```markdown
-Syntax highlighted code block
+Apart from this, Rihen is a cooking enthusiast - Recent lockdowns gave him the opportuinities to explore & cook many cuisines. He likes to spend the free time in exploring nearbuy areas, listening to rock music etc. To know more, you can connect him via given mail ID in the description.   
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rihen-Mistry/Rihen-Mistry.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
