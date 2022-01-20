@@ -1,1 +1,10 @@
+title: Rihen Mistry # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+Consultant
+<br><br>
+<a href="mailto:21pgp139@iimraipur.ac.in">21pgp139@iimraipur.ac.in </a>
+<br>
+<a href="www.linkedin.com/in/rihen-mistry-8225aa158/">LinkedIn Profile</a>
+<br>
 theme: jekyll-theme-minimal
