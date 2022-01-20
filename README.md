@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/Rihen-Mistry/Rihen-Mistry.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Rihen is a Mechanical engineering graduate from Nirma University, currently perusing MBA from Indian Institute of Management, Raipur (21-23). He has worked with an Indian chemical conglomerate - DCM Shriram ltd for 3 years in Project Management Office where he was part of various mega projects at Bharuch, Gujarat
 
 ### Markdown
 
