@@ -10,9 +10,22 @@ He has experience in :
 - Procurement Planning
 - Dashboards & MIS
 
-### Markdown
+### Work Experience 
+### DCM Shriram Ltd ( Jun'18 - Jun'21)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Managed end to end project life cycle of 5 different greenfield/brownfield projects. Maintained scope of the projects, Identified changes and analyzed impact on timelines and budget
+- Improved visibility and transparency among 48 stakeholders by developing project charters and RACI matrix
+- Identified critical paths and suggested mitigation plans by developing schedules on Oracle Primavera P6 with more than 3000 activities
+- Planned deliveries of 1126 project documents and shared weekly MIS with mitigation plan to stakeholders by implementing engineering master document list
+- Managed supply chain planning of 64 project packages by implementing procurement tracker. Ensured adherence to schedules by escalating issues to management in case of deviations and developed contingency plan with stakeholders
+- Managed 2 OEMs, 2 consultants and 14 contractors. Reviewed their progress reports, identified lags and escalated its impact on project to project manager
+- Monitored project cost of 1300 Cr in SAP. Identified budget overrun risks by developing cost management trackers
+- Developed & managed cash flow statements based on project schedules
+- Ensured weekly project updates to CEO by circulating project review dashboards. Prepared monthly project review decks for MD's review
+- Managed project issues log to resolve issues and manage conflicts, ensured 90% issues are resolved within 15 days as per defined cycle
+- Developed risk management matrix to identify risks, analyze impact and define the response planning to mitigate risks.
+- Led a team of 5 as part of a Cross Functional Team of Operation Excellence - TAT(Turn around time) optimization. Identified bottlenecks by process mapping and reduced TAT by 18%
+- Managed 28 employees as a part of employee engagement CFT. Interacted with employees to set SMART goals. Increased employee engagement by 23%
 
 ```markdown
 Syntax highlighted code block
