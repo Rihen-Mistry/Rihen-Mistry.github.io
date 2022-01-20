@@ -58,6 +58,6 @@ He has experience in :
 - Received "Pat on the back" award & by President of DCM Shriram Ltd for in-depth monitoring & seamless coordination of the project
 - Published a research paper on Parametric Study On Heat Pipe & Performance Optimization at International Journal of Science and Research
 
-### ![Image
+
 Apart from this, Rihen is a cooking enthusiast - Recent lockdowns gave him the opportuinities to explore & cook many cuisines. He likes to spend the free time in exploring nearbuy areas, listening to rock music etc. To know more, you can connect him via given mail ID in the description.]
 
