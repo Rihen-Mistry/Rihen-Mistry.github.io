@@ -32,6 +32,7 @@ He has experience in :
 ### Swelore Engineering Pvt. Ltd (Jan'18 - May'18)
 - Applied concepts of "Toyota Production System" to eliminate deviations - "Muda, Mura and Muri"
 - Implemented "Lean Manufacturing" model and reduced total inventory cost by 9.64%
+
 ### Ice Make refrigeration Ltd (May'17 - Jun'17)
 - Understood various design, procurement & manufacturing processes and submitted a project on design of "Expansion Valves"
 
