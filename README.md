@@ -1,4 +1,4 @@
-## Portfolio
+## About
 
 Rihen is a Mechanical engineering graduate from Nirma University, currently perusing MBA from Indian Institute of Management, Raipur (21-23). He has worked with an Indian chemical conglomerate - DCM Shriram ltd for 3 years in Project Management Office where he was part of various mega projects at Bharuch, Gujarat
 
