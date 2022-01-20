@@ -28,7 +28,6 @@ He has experience in :
 - Managed 28 employees as a part of employee engagement CFT. Interacted with employees to set SMART goals. Increased employee engagement by 23%
 
 ### Internships 
-
   ### Swelore Engineering Pvt. Ltd (Jan'18 - May'18)
 - Applied concepts of "Toyota Production System" to eliminate deviations - "Muda, Mura and Muri"
 - Implemented "Lean Manufacturing" model and reduced total inventory cost by 9.64%
